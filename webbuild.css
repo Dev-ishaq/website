@@ -41,8 +41,6 @@ li, a:focus{
     color: white;
     text-shadow: 5px solid gray;
     text-align: center;
-    /* background-color: hsla(199, 98%, 25%, 0.651); */
-    /* border: 1px solid blue; */
     background-image: linear-gradient(hsla(202, 88%, 23%, 0.723), hsla(202, 88%, 23%, 0.723)),url("bitch 1000&350.jpg.jpg");
     /* background-image: linear-gradient(to left, gold, brown); */
     background-repeat: no-repeat;
